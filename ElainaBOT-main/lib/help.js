@@ -2,10 +2,10 @@ function help() {
     return `
 ╔══✪〘 INFORMATION 〙✪══
 ║
-╠➥ ELAINA BOT
+╠➥ PATRICK BOT
 ╠➥ 2.0
-╠➥ CREATOR : TOBZ
-╠➥ wa.me/6281311850715
+╠➥ CREATOR : SPONGEBOB
+╠➥ wa.me/628121819798
 ║
 ╠══✪〘 LIST MENU 〙✪══
 ║
@@ -37,7 +37,7 @@ function help() {
 ╠➥ *#elainaadmin*
 ╠➥ *#owner*
 ║
-╚═〘 ELAINA BOT 〙
+╚═〘 PATRICK BOT 〙
 `
 }
 exports.help = help()
@@ -55,7 +55,7 @@ function ownercmd() {
 ╠➥ *#unbanchat*
 ╠➥ *#eval [kode JavaScript]*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.ownercmd = ownercmd()
 function admincmd() {
@@ -76,7 +76,7 @@ function admincmd() {
 ╠➥ *#okickall*
 ╠➥ *#otagall*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.admincmd = admincmd()
 function nsfwcmd() {
@@ -91,7 +91,7 @@ function nsfwcmd() {
 ╠➥ *#nhder [kode]*
 ╠➥ *#xnxx [linkXnxx]*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.nsfwcmd = nsfwcmd()
 function praycmd() {
@@ -105,7 +105,7 @@ function praycmd() {
 ╠➥ *#listsurah*
 ╠➥ *#listdaerah*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.praycmd = praycmd()
 function kerangcmd() {
@@ -117,7 +117,7 @@ function kerangcmd() {
 ╠➥ *#bisakah* [optional]*
 ╠➥ *#kapankah* [optional]*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.kerangcmd = kerangcmd()
 function mediacmd() {
@@ -165,7 +165,7 @@ function mediacmd() {
 ╠➥ *#ssweb [linkWeb]*
 ╠➥ *#shorturl [linkWeb]*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.mediacmd = mediacmd()
 function animecmd() {
@@ -190,7 +190,7 @@ function animecmd() {
 ╠➥ *#komiku [optional]*
 ╠➥ *#animesearch [query]*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.animecmd = animecmd()
 function othercmd() {
@@ -215,7 +215,7 @@ function othercmd() {
 ╠➥ *#quoterandom*
 ╠➥ *#wa.me*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.othercmd = othercmd()
 function downloadcmd() {
@@ -264,7 +264,7 @@ function groupcmd() {
 ╠➥ *#welcome [enable|disable]*
 ╠➥ *#simi [enable|disable]*
 ║
-╚═〘 ELAINA BOT 〙`
+╚═〘 PATRICK BOT 〙`
 }
 exports.groupcmd = groupcmd()
 function readme() {
@@ -369,13 +369,13 @@ function info() {
 ╠➥ *GITHUB : github.com/TobyG74*
 ╠➥ *TEAM : @TEAINSIDE*
 ║
-╚═〘 ELAINA BOT 〙
+╚═〘 PATRICK BOT 〙
 `
 }
 
 exports.info = info()
 function snk() {
-    return `Syarat dan Ketentuan Bot *ELAINA*
+    return `Syarat dan Ketentuan Bot *PATRICK*
 1. Teks dan nama pengguna WhatsApp anda akan kami simpan di dalam server selama bot aktif
 2. Data anda akan di hapus ketika bot Offline
 3. Kami tidak menyimpan gambar, video, file, audio, dan dokumen yang anda kirim
@@ -400,7 +400,7 @@ function sewa() {
 ╠➥ *OVO, PAYPAL, DANA, PULSA +5K*
 ╠═══════════════════════════
 ╠➥ *KEUNTUNGAN SEWA BOT :*
-╠➥ *1. BISA MENJADI ADMIN ELAINA*
+╠➥ *1. BISA MENJADI ADMIN PATRICK*
 ╠➥ *2. BISA MENDAPATKAN COMMAND ADMIN*
 ╠➥ *KEUNTUNGAN BUAT BOT :*
 ╠➥ *1. BISA MENJADI OWNER BOT SENDIRI*
@@ -413,7 +413,7 @@ function sewa() {
 ╠➥ *HARAP HUBUNGI NOMOR DIBAWAH :*
 ╠➥ *wa.me/6281311850715*
 ║
-╚═〘 ELAINA BOT 〙
+╚═〘 PATRICK BOT 〙
 `
 }
 exports.sewa = sewa()
@@ -427,7 +427,7 @@ function sumbang() {
 ╠➥ *SAWERIA : saweria.co/ItzTobz*
 ╠➥ *TERIMA KASIH BANYAK YANG SUDAH MAU DONASI*
 ║
-╚═〘 ELAINA BOT 〙
+╚═〘 PATRICK BOT 〙
 `
 }
 exports.sumbang = sumbang()
